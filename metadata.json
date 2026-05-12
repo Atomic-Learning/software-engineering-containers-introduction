@@ -12,6 +12,7 @@
     "prerequisites": [
     ],
     "related": [
-        "docker-introduction"
+        "docker-introduction",
+        "software-engineering-container-images"
     ]
 }
